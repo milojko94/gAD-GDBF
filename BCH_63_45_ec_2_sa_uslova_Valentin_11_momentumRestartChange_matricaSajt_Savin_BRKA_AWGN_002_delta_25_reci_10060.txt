@@ -1,0 +1,8 @@
+******************************
+Decoder NO: 1
+alfa: 6.2
+DELTA_margin: 2.5
+FLAG: 1
+ITERATION_RESTART: 300
+m_l_i: [5 3 3 3]
+******************************
